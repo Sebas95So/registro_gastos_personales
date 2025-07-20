@@ -16,7 +16,7 @@
 
 ## 🛠️ Requisitos
 
-- Python 3.x  
+- Python 
 - Matplotlib (librería para gráficos)
 
 ### Instalación de Matplotlib
